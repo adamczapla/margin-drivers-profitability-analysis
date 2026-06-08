@@ -98,6 +98,20 @@ Die Produktdimension wurde daher auf Produkte beschränkt, die in den Verkaufsda
 
 ---
 
+## Berücksichtigung historischer Produktkosten
+
+Obwohl StandardCost für alle verkauften Produkte verfügbar ist, repräsentiert dieser Wert den aktuellen Standardkostensatz des Produkts.
+
+Da sich Produktkosten im Zeitverlauf ändern können, wurde zusätzlich die Tabelle ProductCostHistory untersucht und in die Kostenberechnung integriert.
+
+Für jede Verkaufsposition wurde geprüft, ob zum Bestelldatum ein gültiger historischer Kostensatz vorhanden ist. Falls ein passender Eintrag gefunden wurde, wurde dieser verwendet. Andernfalls wurde auf den StandardCost aus der Produkttabelle zurückgegriffen.
+
+Dadurch entstand die Spalte EffectiveStandardCost, aus der anschließend die Zeilenkosten berechnet wurden:
+
+LineCost = OrderQty × EffectiveStandardCost
+
+---
+
 ## Aufbau der Territoriumsdimension
 
 Die Territoriumsdimension wurde aus den Tabellen SalesTerritory und CountryRegion aufgebaut.
@@ -160,7 +174,7 @@ Anschließend wurden Budgetfaktoren angewendet, aus denen die Budgetwerte berech
 
 Die Budgetwerte basieren somit auf realen Verkaufsdaten und nicht auf frei gewählten Zahlen.
 
----
+--- 
 
 ## Budgetdesign
 
