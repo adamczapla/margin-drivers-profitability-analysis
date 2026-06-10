@@ -180,7 +180,7 @@ Die Budgetwerte basieren somit auf realen Verkaufsdaten und nicht auf frei gewä
 
 Zur Steuerung der Budgetwerte wurde eine Hilfstabelle mit Budgetfaktoren erstellt.
 
-Für die meisten Kombinationen wurden Budgetfaktoren zwischen 0.85 und 1.15 verwendet. 
+Für die meisten Kombinationen wurden Budgetfaktoren zwischen 0.85 und 1.05 verwendet. 
 
 Zusätzlich wurden einige ausgewählte Territory-Subcategory-Kombinationen bewusst mit stärkeren Abweichungen versehen, um realistische Budgetüber- und Budgetunterschreitungen zu erzeugen. 
 
