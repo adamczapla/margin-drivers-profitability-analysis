@@ -22,7 +22,7 @@ The analytical model is based on a snowflake schema with separate fact and dimen
 
 A detailed description of the data modeling process, table selection, cost calculation, budget generation, and the decision to use a snowflake schema instead of a pure star schema can be found in the project documentation.
 
-> For more details, see the [Project Documentation](docs/mo)
+> For more details, see the [Project Documentation](docs/modeling.md)
 
 ### Analytical Model
 
