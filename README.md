@@ -72,3 +72,20 @@ Business questions answered:
 ![Profitability Drivers Dashboard](images/profitability-drivers.png)
 
 This page combines a territory scatter plot, a budget variance matrix and a decomposition tree. It enables users to compare profitability patterns, identify budget variance patterns and explore the main drivers behind total profit.
+
+### Product Details
+
+The Product Details page provides a detailed product-level view and is accessed through drillthrough actions from other report pages.
+
+Business questions answered:
+
+- Which individual products contribute most to revenue and profit?
+- How do revenue, costs, profit and gross margin compare at product level?
+- Which products belong to the currently selected territory, category or subcategory?
+- How does product performance change under different filter selections?
+
+### Product Details
+
+![Product Details Dashboard](images/product-details.png)
+
+This page contains a detailed product-level table showing revenue, costs, profit and gross margin for each product. Context cards and a territory map provide additional information about the current drillthrough selection, while the page inherits filters from the source page to support focused analysis.
