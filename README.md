@@ -55,3 +55,20 @@ Business questions answered:
 ![Executive Overview Dashboard](images/executive-overview.png)
 
 This page combines KPI cards, trend analysis, budget tracking, and ranking visualizations to provide a quick overview of business performance and key profitability drivers.
+
+### Profitability Drivers
+
+The Profitability Drivers page focuses on the factors that influence profit performance across territories, categories and subcategories.
+
+Business questions answered:
+
+- Which territories combine high revenue, profit and gross margin?
+- How does budget variance differ across territories and categories?
+- Which categories and subcategories contribute most to total profit?
+- How can total profit be decomposed across category, subcategory and territory?
+
+### Profitability Drivers
+
+![Profitability Drivers Dashboard](images/profitability-drivers.png)
+
+This page combines a territory scatter plot, a budget variance matrix and a decomposition tree. It enables users to compare profitability patterns, identify budget variance patterns and explore the main drivers behind total profit.
