@@ -36,7 +36,13 @@ The report consists of several pages that focus on different aspects of business
 - Regional Management
 - Product Management
 
-To provide users with access only to relevant data, Row-Level Security (RLS) roles were implemented.
+To provide users with access only to relevant data, Row-Level Security (RLS) roles were implemented. 
+
+| Role | Demo                                |
+|---|-------------------------------------|
+| Management | [Watch video](videos/executive.mp4) |
+| Regional Management | [Watch video](LINK)                 |
+| Product Management | [Watch video](LINK)                 |
 
 ### Executive Overview
 
@@ -88,8 +94,4 @@ Business questions answered:
 
 ![Product Details Dashboard](images/product-details.png)
 
-This page contains a detailed product-level table showing revenue, costs, profit and gross margin for each product. Context cards and a territory map provide additional information about the current drillthrough selection, while the page inherits filters from the source page to support focused analysis.
-
-### Video
-
-<video src="videos/testaufnahme.mp4" controls width="800"></video>
+This page contains a detailed product-level table showing revenue, costs, profit and gross margin for each product. Context cards and a territory map provide additional information about the current drillthrough selection, while the page inherits filters from the source page to support focused analysis. 
