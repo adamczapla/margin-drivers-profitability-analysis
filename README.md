@@ -4,7 +4,7 @@
 
 The goal of this project is to develop a Power BI dashboard for analyzing revenue, profitability, and budget variances.
 
-The main focus is to identify the most important profitability drivers. Revenue, cost, and profit are analyzed from different perspectives, especially by Territory, Category, Subcategory, and Date.
+The main focus is to analyze profitability drivers. Revenue, cost, and profit are examined from different perspectives, particularly by Territory, Category, Subcategory, and Date.
 
 In addition, budget values are integrated into the analysis to highlight differences between planned and actual business performance.
 
@@ -89,3 +89,7 @@ Business questions answered:
 ![Product Details Dashboard](images/product-details.png)
 
 This page contains a detailed product-level table showing revenue, costs, profit and gross margin for each product. Context cards and a territory map provide additional information about the current drillthrough selection, while the page inherits filters from the source page to support focused analysis.
+
+### Video
+
+<video src="videos/testaufnahme.mp4" controls width="800"></video>
