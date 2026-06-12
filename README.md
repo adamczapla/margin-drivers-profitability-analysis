@@ -38,11 +38,11 @@ The report consists of several pages that focus on different aspects of business
 
 To provide users with access only to relevant data, Row-Level Security (RLS) roles were implemented. 
 
-| Role | Demo                                |
-|---|-------------------------------------|
-| Management | [Watch video](videos/executive.mp4) |
-| Regional Management | [Watch video](LINK)                 |
-| Product Management | [Watch video](LINK)                 |
+| Role | Demo                                                                                      |
+|---|-------------------------------------------------------------------------------------------|
+| Management | [Watch Executive Dashboard Walkthrough](https://youtu.be/kk5g1fQF5Oc) |
+| Regional Management | [Watch Germman Regional Manager Dashboard Walkthrough](https://youtu.be/C8C5Rec-VA8)                              |
+| Product Management | [Watch Bikes Product Manager Dashboard Walkthrough](https://youtu.be/k4UdHFcm_9Y)                                       |
 
 ### Executive Overview
 
